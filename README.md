@@ -1,1 +1,1 @@
-I model stuff using Blender and am learning front-end web development.
+I do 3D modeling and sometimes build websites

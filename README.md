@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shravannjain&label=Profile%20views&color=0e75b6&style=flat" alt="shravannjain" /> </p>
 
-- 🔭 Currently developing a personal journal website using Spring Boot and React, with plans to containerize and deploy it.**
-
 - Check out my portfolio  [https://shravanjain.dev/](https://shravanjain.dev/)
 
-- How to reach me **shravanjain59@gmail.com**
+- How to reach me **shravan.jain59@gmail.com**
 
 
 ## 🌐 Socials:
